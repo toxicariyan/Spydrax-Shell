@@ -7,7 +7,7 @@
 
 **SPYDRAX** is a powerful and advanced PHP web shell designed for penetration testers, red teams, and cyber researchers. It comes with a sleek UI and a comprehensive set of tools for post-exploitation, privilege escalation, and server management.
 
-![Login Page](https://i.ibb.co/rKPcNPys/Screenshot-20250626-220111.jpg)
+![Login Page](https://i.ibb.co/4BSJ7nW/IMG-20250626-222910.jpg)
 *SPYDRAX Login Interface*
 
 ---
@@ -44,7 +44,7 @@
 - See system info, PHP version, IP address, and OS details
 - Visual folder navigation
 
-![UI Screenshot](https://i.ibb.co/5WchQhP6/Screenshot-20250626-220234.jpg)
+![UI Screenshot](https://i.ibb.co/C3Zc0wCS/IMG-20250626-222848.jpg)
 *Main Shell UI with File & Tool Panel*
 
 ---
@@ -78,11 +78,11 @@ This tool is intended **only for educational purposes** and **authorized penetra
 ## 🧑‍💻 Author
 
 **SpydraX**  
-GitHub: [yourusername]  
-Telegram: [optional]  
-Website: [optional]
+GitHub: [spydrax]  
 
 ---
+**HaxorSec** 
+Github: [unknown]
 
 ## 🙏 Special Thanks
 
