@@ -58,7 +58,7 @@ The shell is protected by a login screen with password authentication.
 - 🔁 To change it, edit the line containing the MD5 hash in the PHP source:
 
 ```php
-$pass = "e9fe3f2a7b5f4d5011e1b9f8e1d1b9d0"; // Replace with your own md5 hash
+$hashedPassword = "e9fe3f2a7b5f4d5011e1b9f8e1d1b9d0"; // Replace with your own md5 hash
 ```
 
 You can generate your own hash using:
