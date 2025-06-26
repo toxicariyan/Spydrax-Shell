@@ -7,7 +7,7 @@
 
 **SPYDRAX** is a powerful and advanced PHP web shell designed for penetration testers, red teams, and cyber researchers. It comes with a sleek UI and a comprehensive set of tools for post-exploitation, privilege escalation, and server management.
 
-![Login Page](https://i.ibb.co/rKPcNPy/Screenshot-20250626-220111.jpg)
+![Login Page](https://i.ibb.co/rKPcNPys/Screenshot-20250626-220111.jpg)
 *SPYDRAX Login Interface*
 
 ---
