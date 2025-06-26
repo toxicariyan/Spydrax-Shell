@@ -44,7 +44,7 @@
 - See system info, PHP version, IP address, and OS details
 - Visual folder navigation
 
-![UI Screenshot](https://i.ibb.co/TMkxkGCK/Screenshot-20250626-220240.jpg)
+![UI Screenshot](https://i.ibb.co/5WchQhP6/Screenshot-20250626-220234.jpg)
 *Main Shell UI with File & Tool Panel*
 
 ---
