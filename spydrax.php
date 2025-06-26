@@ -2476,8 +2476,7 @@ if ($_GET['don'] == true) {
             </div>
         </div>
     <?php endif; ?>
-        <?php
-        
+
     <?php if ($_GET['f']) : ?>
         <div class="modal fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
             <div class="glass-effect cyber-panel rounded-lg w-full max-w-6xl h-[80vh] flex flex-col modal-content">
