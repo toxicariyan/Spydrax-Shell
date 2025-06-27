@@ -78,11 +78,11 @@ This tool is intended **only for educational purposes** and **authorized penetra
 ## 🧑‍💻 Author
 
 **SpydraX**  
-GitHub: [spydrax]  
+GitHub: [thespydrax]  
 
 ---
-**HaxorSec** 
-Github: [unknown]
+**HaxorSec**  
+Github: [unknown]  
 
 ## 🙏 Special Thanks
 
